@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "accountId": "1001",
+      "attrId": "adunit.adslot",
+      "attrType": "adunit",
+      "attrDisplayName": "Prebid Ad Slot",
+      "valueCount": 5,
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:19.000Z"
+    },
+    {
+      "accountId": "1001",
+      "attrId": "device.ext.deviceatlas.os",
+      "attrType": "device",
+      "attrDisplayName": "Operating System",
+      "valueCount": 4,
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:20.000Z"
+    },
+    {
+      "accountId": "2763",
+      "attrId": "adunit.adslot",
+      "attrType": "adunit",
+      "attrDisplayName": "Prebid Ad Slot",
+      "valueCount": 1,
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:19.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.ext.deviceatlas.os",
+      "attrType": "device",
+      "attrDisplayName": "Operating System",
+      "valueCount": 73,
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:20.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrType": "geo",
+      "attrDisplayName": "Country",
+      "valueCount": 251,
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrType": "geo",
+      "attrDisplayName": "Region",
+      "valueCount": 4225,
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    }
+  ],
+  "page": {
+    "size": 20,
+    "totalElements": 2,
+    "totalPages": 1,
+    "number": 0
+  }
+}

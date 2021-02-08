@@ -1,0 +1,77 @@
+device.ext.deviceatlas.os,device,Operating System,AMX,AMX,*,,
+device.ext.deviceatlas.os,device,Operating System,Android,Android,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Asha platform,Asha platform,*,,
+device.ext.deviceatlas.os,device,Operating System,Bada,Bada,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Brew,Brew,*,,
+device.ext.deviceatlas.os,device,Operating System,Chrome OS,Chrome OS,*,,
+device.ext.deviceatlas.os,device,Operating System,Enea OSE,Enea OSE,*,,
+device.ext.deviceatlas.os,device,Operating System,Firefox OS,Firefox OS,*,,
+device.ext.deviceatlas.os,device,Operating System,FreeBSD,FreeBSD,*,,
+device.ext.deviceatlas.os,device,Operating System,HarmonyOS,HarmonyOS,*,,
+device.ext.deviceatlas.os,device,Operating System,KaiOS,KaiOS,*,,
+device.ext.deviceatlas.os,device,Operating System,L4,L4,*,,
+device.ext.deviceatlas.os,device,Operating System,LG proprietary,LG proprietary,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux,Linux,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Linux - Arch,Linux - Arch,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - CentOS,Linux - CentOS,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - Debian,Linux - Debian,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - Fedora,Linux - Fedora,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - Mint,Linux - Mint,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - Red Hat,Linux - Red Hat,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - Slackware,Linux - Slackware,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - TiVo,Linux - TiVo,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - Ubuntu,Linux - Ubuntu,*,,
+device.ext.deviceatlas.os,device,Operating System,Linux - openSUSE,Linux - openSUSE,*,,
+device.ext.deviceatlas.os,device,Operating System,Mac OS,Mac OS,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Maemo,Maemo,*,,
+device.ext.deviceatlas.os,device,Operating System,MeeGo,MeeGo,*,,
+device.ext.deviceatlas.os,device,Operating System,NetBSD,NetBSD,*,,
+device.ext.deviceatlas.os,device,Operating System,NetTV,NetTV,*,,
+device.ext.deviceatlas.os,device,Operating System,Nintendo 2DS OS,Nintendo 2DS OS,*,,
+device.ext.deviceatlas.os,device,Operating System,Nintendo 3DS OS,Nintendo 3DS OS,*,,
+device.ext.deviceatlas.os,device,Operating System,Nintendo DS OS,Nintendo DS OS,*,,
+device.ext.deviceatlas.os,device,Operating System,Nintendo Wii OS,Nintendo Wii OS,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Nokia OS,Nokia OS,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Nucleus,Nucleus,*,,
+device.ext.deviceatlas.os,device,Operating System,OS X,OS X,*,,
+device.ext.deviceatlas.os,device,Operating System,OS\/2,OS\/2,*,,
+device.ext.deviceatlas.os,device,Operating System,OpenBSD,OpenBSD,*,,
+device.ext.deviceatlas.os,device,Operating System,Other,Other,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Palm OS,Palm OS,*,,Y
+device.ext.deviceatlas.os,device,Operating System,PlayStation 3 OS,PlayStation 3 OS,*,,Y
+device.ext.deviceatlas.os,device,Operating System,PlayStation 4 OS,PlayStation 4 OS,*,,Y
+device.ext.deviceatlas.os,device,Operating System,PlayStation Portable OS,PlayStation Portable OS,*,,Y
+device.ext.deviceatlas.os,device,Operating System,PlayStation Vita OS,PlayStation Vita OS,*,,
+device.ext.deviceatlas.os,device,Operating System,RIM,RIM,*,,
+device.ext.deviceatlas.os,device,Operating System,Rex,Rex,*,,
+device.ext.deviceatlas.os,device,Operating System,Roku OS,Roku OS,*,,
+device.ext.deviceatlas.os,device,Operating System,Sailfish,Sailfish,*,,
+device.ext.deviceatlas.os,device,Operating System,Samsung proprietary,Samsung proprietary,*,,
+device.ext.deviceatlas.os,device,Operating System,Sony Ericsson proprietary,Sony Ericsson proprietary,*,,
+device.ext.deviceatlas.os,device,Operating System,Symbian,Symbian,*,,
+device.ext.deviceatlas.os,device,Operating System,ThreadX,ThreadX,*,,
+device.ext.deviceatlas.os,device,Operating System,Tizen,Tizen,*,,
+device.ext.deviceatlas.os,device,Operating System,VRTX,VRTX,*,,
+device.ext.deviceatlas.os,device,Operating System,Verix,Verix,*,,
+device.ext.deviceatlas.os,device,Operating System,Vewd OS,Vewd OS,*,,
+device.ext.deviceatlas.os,device,Operating System,Wear OS,Wear OS,*,,
+device.ext.deviceatlas.os,device,Operating System,Y,Windows,*,,
+device.ext.deviceatlas.os,device,Operating System,Windows 10,Windows 10,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Windows 2000,Windows 2000,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Windows 7,Windows 7,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Windows 8,Windows 8,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Windows 8.1,Windows 8.1,*,,
+device.ext.deviceatlas.os,device,Operating System,Windows Mobile,Windows Mobile,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Windows Phone,Windows Phone,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Windows RT,Windows RT,*,,
+device.ext.deviceatlas.os,device,Operating System,Windows Vista,Windows Vista,*,,Y
+device.ext.deviceatlas.os,device,Operating System,Windows XP,Windows XP,*,,Y
+device.ext.deviceatlas.os,device,Operating System,audioOS,audioOS,*,,
+device.ext.deviceatlas.os,device,Operating System,iOS,iOS,*,,Y
+device.ext.deviceatlas.os,device,Operating System,tvOS,tvOS,*,,
+device.ext.deviceatlas.os,device,Operating System,watchOS,watchOS,*,,
+device.ext.deviceatlas.os,device,Operating System,webOS,webOS,*,,
+device.ext.deviceatlas.os,device,Operating System,Android,Android,1001,,Y
+device.ext.deviceatlas.os,device,Operating System,Windows,Windows,1001,,Y
+device.ext.deviceatlas.os,device,Operating System,Mac OS,Mac OS,1001,,Y
+device.ext.deviceatlas.os,device,Operating System,Chrome OS,Chrome OS,1001,,

@@ -1,0 +1,85 @@
+info:
+  app:
+    name: "pg-dim-val-api"
+    artifact: "pg-dim-val-api"
+    description: "description"
+    version: "1.0.0"
+
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE;MODE=MYSQL
+    username: sa
+    password: sa
+    hikari:
+      connection-test-query: SELECT 1 FROM DUAL
+      minimum-idle: 10
+      maximum-pool-size: 20
+      pool-name: dim-val-api-pool
+      auto-commit: true
+  jackson:
+    date-format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'"
+    default-property-inclusion: NON_NULL
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        generate_statistics: false
+        jdbc:
+          batch_size: 100
+  main:
+    banner-mode: "off"
+  data:
+    web:
+      pageable:
+        default-page-size: 20
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+services:
+  cors:
+    enabled: true
+    path-pattern: "/**"
+    allow-credentials: false
+    allow-headers: "*"
+    allow-origins: "*"
+    allow-methods: ["GET","HEAD","POST"]
+    max-age-sec: 1800
+  base-url: /dim-val/api
+  admin-base-url: /dim-val-admin/api
+  expand-attrs:
+    - node: BidderParams
+    - node: SiteFPD
+  attr-tree-links:
+    - parent: device.geo.ext.netacuity.country
+      leaf: device.geo.ext.netacuity.region
+    - parent: device.geo.ext.netacuity.country
+      leaf: device.geo.ext.netacuity.metro
+
+server-auth:
+  enabled: true
+  realm: dim-val-api-svc
+  principals:
+    - username: user2
+      password: password2
+      roles: all
+
+server-api-roles:
+  upload: upload, all
+  download: download, all
+  query: query, all
+
+management:
+  endpoints:
+    web:
+      base-path: /status
+      exposure:
+        include: health
+  endpoint:
+    health:
+      defaults:
+        enabled: false

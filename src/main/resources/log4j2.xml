@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Properties>
+        <Property name="LOG_PATTERN">
+            %d{yyyy-MM-dd HH:mm:ss.SSS} %5p ${hostName} --- [%15.15t] %-40.40c{1.} : %m%n%ex
+        </Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="ConsoleAppender">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+
+        <Root level="info">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Root>
+        <Logger name="org.prebid.pg.dimval.api" level="debug" additivity="false">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Logger>
+        <Logger name="org.prebid.pg.dimval.api.controller" level="debug" additivity="false">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Logger>
+        <Logger name="org.prebid.pg.dimval.api.dto" level="debug" additivity="false">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Logger>
+        <Logger name="org.prebid.pg.dimval.api.persistence" level="debug" additivity="false">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Logger>
+        <Logger name="org.prebid.pg.dimval.api.repo" level="debug" additivity="false">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Logger>
+        <Logger name="org.prebid.pg.dimval.api.security" level="debug" additivity="false">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Logger>
+        <Logger name="org.prebid.pg.dimval.api.services" level="debug" additivity="false">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Logger>
+
+    </Loggers>
+
+</Configuration>

@@ -1,0 +1,14 @@
+segment.vendor,segment,Vendor User Segment,51226,Pets - Dog Owner,1001,,Y
+segment.vendor,segment,Vendor User Segment,51227,Pets - Cat Owner,1001,,Y
+segment.vendor,segment,Vendor User Segment,51270,Auto Intenders - Luxury,2763,,Y
+segment.vendor,segment,Vendor User Segment,31964,Auto Intenders - Sedans,2763,,Y
+segment.vendor,segment,Vendor User Segment,51266,Auto Intenders - Sports Cars,2763,,N
+segment.vendor,segment,Vendor User Segment,31972,HHI $100k,1001,,Y
+segment.vendor,segment,Vendor User Segment,31976,Business Traveler,1001,,Y
+segment.vendor,segment,Vendor User Segment,34740,Social Influencer,2763,,Y
+segment.vendor,segment,Vendor User Segment,31974,Male 25-44,2763,,Y
+segment.vendor,segment,Vendor User Segment,34738,Frequent Traveler,2763,,Y
+segment.vendor,segment,Vendor User Segment,31968,Marketing Executive,1001,,Y
+segment.vendor,segment,Vendor User Segment,31966,International Traveler,1001,,
+segment.vendor,segment,Vendor User Segment,31970,Mens Apparel,*,,Y
+segment.vendor,segment,Vendor User Segment,31970,Mens Apparel,none,,Y

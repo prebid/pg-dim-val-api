@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "34",
+      "display": "North Carolina,United States",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:21.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "41",
+      "display": "South Carolina,United States",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:21.000Z"
+    }
+  ],
+  "page": {
+    "size": 20,
+    "totalElements": 2,
+    "totalPages": 1,
+    "number": 0
+  }
+}

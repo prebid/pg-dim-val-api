@@ -1,0 +1,190 @@
+{
+  "content": [
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "ad",
+      "display": "Andorra",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "ae",
+      "display": "United Arab Emirates",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "af",
+      "display": "Afghanistan",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "ag",
+      "display": "Antigua And Barbuda",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "al",
+      "display": "Albania",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "am",
+      "display": "Armenia",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "ao",
+      "display": "Angola",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "aq",
+      "display": "Antarctica",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "ar",
+      "display": "Argentina",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "as",
+      "display": "American Samoa",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "at",
+      "display": "Austria",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "au",
+      "display": "Australia",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "az",
+      "display": "Azerbaijan",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "ba",
+      "display": "Bosnia And Herzegovina",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "bb",
+      "display": "Barbados",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "bd",
+      "display": "Bangladesh",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "be",
+      "display": "Belgium",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "bf",
+      "display": "Burkina Faso",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "bg",
+      "display": "Bulgaria",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.country",
+      "attrDisplayName": "Country",
+      "value": "bh",
+      "display": "Bahrain",
+      "availsSupported": true,
+      "updatedAt": "2020-08-31T14:27:25.000Z"
+    }
+  ],
+  "page": {
+    "size": 20,
+    "totalElements": 213,
+    "totalPages": 11,
+    "number": 0
+  }
+}

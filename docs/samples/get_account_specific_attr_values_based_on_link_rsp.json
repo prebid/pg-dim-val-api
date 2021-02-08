@@ -1,0 +1,82 @@
+{
+  "content": [
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "9994",
+      "display": "Andhra Pradesh,India",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "9997",
+      "display": "Assam,India",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "9999",
+      "display": "Delhi,India",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "10011",
+      "display": "Karnataka,India",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "10018",
+      "display": "Kerala,India",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "10031",
+      "display": "Punjab,India",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "10036",
+      "display": "Tamil Nadu,India",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    },
+    {
+      "accountId": "common",
+      "attrId": "device.geo.ext.netacuity.region",
+      "attrDisplayName": "Region",
+      "value": "1309",
+      "display": "West Bengal,India",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:50.000Z"
+    }
+  ],
+  "page": {
+    "size": 20,
+    "totalElements": 8,
+    "totalPages": 1,
+    "number": 0
+  }
+}

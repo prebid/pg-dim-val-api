@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "accountId": "1001",
+      "attrId": "device.ext.deviceatlas.os",
+      "attrDisplayName": "Operating System",
+      "value": "Android",
+      "display": "Android",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:20.000Z"
+    },
+    {
+      "accountId": "1001",
+      "attrId": "device.ext.deviceatlas.os",
+      "attrDisplayName": "Operating System",
+      "value": "Windows",
+      "display": "Windows",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:20.000Z"
+    },
+    {
+      "accountId": "1001",
+      "attrId": "device.ext.deviceatlas.os",
+      "attrDisplayName": "Operating System",
+      "value": "Mac OS",
+      "display": "Mac OS",
+      "availsSupported": true,
+      "updatedAt": "2020-08-26T18:40:20.000Z"
+    }
+  ],
+  "page": {
+    "size": 20,
+    "totalElements": 3,
+    "totalPages": 1,
+    "number": 0
+  }
+}
