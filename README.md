@@ -46,7 +46,7 @@ cd pg-dim-val-api
 
 - Run below command to build project:
 ```bash
-mvn clean package
+mvn clean verify package
 ```
 
 ## Configuration
